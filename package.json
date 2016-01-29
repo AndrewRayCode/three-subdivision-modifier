@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "three": "^0.73.2"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DelvarWorld/three-subdivision-modifier.git"
