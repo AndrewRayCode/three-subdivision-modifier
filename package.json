@@ -1,12 +1,12 @@
 {
   "name": "three-subdivision-modifier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The Three.js subdivision extras modifier, published to NPM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
+  "peerDependencies": {
     "three": "^0.73.2"
   },
   "repository": {
