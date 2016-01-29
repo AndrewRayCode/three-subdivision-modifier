@@ -1,0 +1,31 @@
+{
+  "name": "three-subdivision-modifier",
+  "version": "1.0.0",
+  "description": "The Three.js subdivision extras modifier, published to NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "three": "^0.73.2"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelvarWorld/three-subdivision-modifier.git"
+  },
+  "keywords": [
+    "three",
+    "subdivision",
+    "modifier"
+  ],
+  "author": {
+    "name": "Andrew Ray",
+    "email": "me@andrewray.me",
+    "url": "http://andrewray.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DelvarWorld/three-subdivision-modifier/issues"
+  },
+  "homepage": "https://github.com/DelvarWorld/three-subdivision-modifier#readme"
+}
