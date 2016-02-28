@@ -1,13 +1,13 @@
 {
   "name": "three-subdivision-modifier",
-  "version": "1.0.3",
-  "description": "The Three.js subdivision extras modifier, published to NPM",
+  "version": "1.0.4",
+  "description": "The Three.js subdivision extras modifier, published to npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "three": "^0.73.2"
+    "three": ">=0.73.2"
   },
   "repository": {
     "type": "git",
