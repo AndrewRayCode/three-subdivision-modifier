@@ -1,6 +1,6 @@
 {
   "name": "three-subdivision-modifier",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The Three.js subdivision extras modifier, published to npm",
   "main": "index.js",
   "scripts": {
